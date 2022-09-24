@@ -1,0 +1,9 @@
+.section {
+    margin: 50px;
+}
+
+.section_title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
